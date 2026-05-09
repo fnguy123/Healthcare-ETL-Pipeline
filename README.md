@@ -1,9 +1,9 @@
 # Healthcare-ETL-Pipeline
-ETL Pipeline for Healthcare
+## ETL Pipeline for Healthcare
 
 patient demographics, services, clinical quality measures (CQMs), staffing, and financial metrics. Key data includes patient ZIP codes, insurance status, race/ethnicity, and specific health outcomes like hypertension or diabetes management
 
-Key Data Categories Needed for UDS Reporting
+### Key Data Categories Needed for UDS Reporting
 
 * Patient Demographics (Table 3A/3B): Data on patient age, sex at birth, race, ethnicity, and insurance type (Medicare, Medicaid, private, uninsured).
 
